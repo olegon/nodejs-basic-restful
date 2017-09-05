@@ -17,3 +17,7 @@ docker run -d -p 27017:27017 --rm --name mongo mongo
 
 PORT=8080 node server.js
 ```
+
+## Fonte
+
+[Hackernoon - RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
